@@ -80,3 +80,8 @@ build/
 
 # Generated files
 src/syntaxes/*.c
+
+# Local
+tests/certs
+tests/docker-compose.openldap.local.yml
+.vscode
